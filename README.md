@@ -15,3 +15,5 @@ wget https://kr.download.nvidia.com/Windows/531.18/531.18-desktop-win10-win11-64
 google drive:  
 https://drive.google.com/file/d/1AH-s_LYy6dsiZF4rbyd0PBZ_bh5G-Byl/view?usp=share_link
 
+onedrive:
+https://kaistackr-my.sharepoint.com/:u:/g/personal/sukim96_kaist_ac_kr/EZl1jhLeHhdHt2yzlrPBrMEBpq9-o2vqNffxEA-rS95HbQ?e=MzCrGS
