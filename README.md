@@ -5,11 +5,11 @@ nvidia site:
 https://www.nvidia.co.kr/content/DriverDownloads/confirmation.php?url=/Windows/531.18/531.18-desktop-win10-win11-64bit-international-dch-whql.exe&lang=kr&type=TITAN
 
 download link:  
-https://kr.download.nvidia.com/Windows/531.18/531.18-desktop-win10-win11-64bit-international-dch-whql.exe
+https://us.download.nvidia.com/Windows/531.18/531.18-desktop-win10-win11-64bit-international-dch-whql.exe
 
 shell script:  
 ```
-wget https://kr.download.nvidia.com/Windows/531.18/531.18-desktop-win10-win11-64bit-international-dch-whql.exe
+wget https://us.download.nvidia.com/Windows/531.18/531.18-desktop-win10-win11-64bit-international-dch-whql.exe
 ```
 
 google drive:  
